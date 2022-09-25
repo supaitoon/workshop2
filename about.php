@@ -1,30 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>เกี่ยวกับเรา</title>
-    <link rel="stylesheet" href="./script/style.css" />
-
-
+    <title>เกียวกับเรา</title>
 </head>
-
-<body class="black">
-    <h1 class="abc conner">เกี่ยวกับเรา</h1>
-
-    <?php
-include"navbar.php";
-?>
-
-
-
-    <img src="./images/picture1.jpg" height="200px" />
-    <img src="./images/picture2.jpg" height="200px" />
-    <img src="./images/picture3.jpg" height="200px" />
-
-
+<body>
+    <h1>เกียวกับเรา</h1>
+    <a href="index.html">home</a>
+    <a href="about.html">about</a>
+    <a href="contact.html">contact</a>
 </body>
-
 </html>
