@@ -12,9 +12,9 @@
 
     <h1>หน้าหลัก  </h1>
     <hr/>
-    <a href="index.html">home</a>
-    <a href="about.html">about</a>
-    <a href="contact.html">contact</a>
+    <a href="index.php">home</a>
+    <a href="about.php">about</a>
+    <a href="contact.php">contact</a>
 
     <h1> heading ยินดีต้อนรับ</h1>
     <h2> heading h2 ยินดีต้อนรับ</h2>
@@ -26,6 +26,13 @@
      </html>
 </br>  </br> </br> </br> </br> </br> </br>  
     <p><img src="./image/2.jpg"/></p>
+    
+
+    <a href="contact.php"
+
+
+
+
     
         <img src="./image/3.jpg"  height="400px" width="400px"/>
 <a href=""></a>

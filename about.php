@@ -8,8 +8,8 @@
 </head>
 <body>
     <h1>เกียวกับเรา</h1>
-    <a href="index.html">home</a>
-    <a href="about.html">about</a>
-    <a href="contact.html">contact</a>
+    <a href="index.php">home</a>
+    <a href="about.php">about</a>
+    <a href="contact.php">contact</a>
 </body>
 </html>
